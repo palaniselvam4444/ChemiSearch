@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.deena.chemisearch" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ChemiSearch" >
+        <activity
+            android:name=".lpp"
+            android:exported="false" />
+        <activity
+            android:name=".Bisabolol"
+            android:exported="false" />
+        <activity
+            android:name=".Panthenol"
+            android:exported="false" />
+        <activity
+            android:name=".Lanolin_alcohol"
+            android:exported="false" />
+        <activity
+            android:name=".Ceresin"
+            android:exported="false" />
+        <activity
+            android:name=".Mineral_oil"
+            android:exported="false" />
+        <activity
+            android:name=".Citric_acid"
+            android:exported="false" />
+        <activity
+            android:name=".Sodium_carbonate"
+            android:exported="false" />
+        <activity
+            android:name=".Sodium_bicarbonate"
+            android:exported="false" />
+        <activity
+            android:name=".Propylene_glycol"
+            android:exported="false" />
+        <activity
+            android:name=".Tartaric_Acid"
+            android:exported="false" />
+        <activity
+            android:name=".Amylmetacresol"
+            android:exported="false" />
+        <activity
+            android:name=".dichlorobenzyl_alcohol"
+            android:exported="false" />
+        <activity
+            android:name=".Povidone"
+            android:exported="false" />
+        <activity
+            android:name=".Stearic_Acid"
+            android:exported="false" />
+        <activity
+            android:name=".Talc_2"
+            android:exported="false" />
+        <activity
+            android:name=".Potassium_Sorbate"
+            android:exported="false" />
+        <activity
+            android:name=".Maize_Starch"
+            android:exported="false" />
+        <activity
+            android:name=".Paracetamol2"
+            android:exported="false" />
+        <activity
+            android:name=".Petrolataum"
+            android:exported="false" />
+        <activity
+            android:name=".thymol"
+            android:exported="false" />
+        <activity
+            android:name=".turpentine_oil"
+            android:exported="false" />
+        <activity
+            android:name=".menthol"
+            android:exported="false" />
+        <activity
+            android:name=".eucalyptus_oil"
+            android:exported="false" />
+        <activity
+            android:name=".camphor"
+            android:exported="false" />
+        <activity
+            android:name=".vaseline"
+            android:exported="false" />
+        <activity
+            android:name=".eno"
+            android:exported="false" />
+        <activity
+            android:name=".strepsils"
+            android:exported="false" />
+        <activity
+            android:name=".paracetamol"
+            android:exported="false" />
+        <activity
+            android:name=".vicks"
+            android:exported="false" />
+        <activity
+            android:name=".zincc"
+            android:exported="false" />
+        <activity
+            android:name=".Cetyl_acl"
+            android:exported="false" />
+        <activity
+            android:name=".sd"
+            android:exported="false" />
+        <activity
+            android:name=".Pyrithione_zinc"
+            android:exported="false" />
+        <activity
+            android:name=".headnshoulders"
+            android:exported="false" />
+        <activity android:name=".seedoil" />
+        <activity android:name=".Hydroxycitronellal" />
+        <activity android:name=".sodiumcl" />
+        <activity android:name=".talc" />
+        <activity android:name=".sodium_palmate" />
+        <activity android:name=".Glycerin" />
+        <activity android:name=".HamamSoap" />
+        <activity android:name=".Splashscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

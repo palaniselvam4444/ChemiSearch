@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_amylmetacresol.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_bisabolol.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_camphor.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_ceresin.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_cetyl_acl.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_citric_acid.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_dichlorobenzyl_alcohol.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_eno.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_eucalyptus_oil.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_fullscreen.xml" value="0.264453125" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_glycerin.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_glycerin2.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_hamam_soap.xml" value="0.22301912568306012" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_headnshoulders.xml" value="0.22" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_lanolin_alcohol.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_lpp.xml" value="0.25" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_main2.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_maize_starch.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_menthol.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_menthol2.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_mineral_oil.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_panthenol.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_paracetamol.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_paracetamol2.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_petrolataum.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_potassium_sorbate.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_povidone.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_propylene_glycol.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_pyrithione_zinc.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_sd.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_seedoil.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_sodium_bicarbonate.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_sodium_carbonate.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_sodium_palmate.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_splashscreen.xml" value="0.15390625" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_stearic_acid.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_strepsils.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_talc.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_talc2.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_tartaric_acid.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_thymol.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_turpentine_oil.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_vaseline.xml" value="0.18" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_vicks.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_zinc_carbonate.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/layout/activity_zincc.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/menu/items.xml" value="0.275" />
+        <entry key="..\:/Files/proj/ChemiSearch/app/src/main/res/menu/menu_hamam_soap.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
